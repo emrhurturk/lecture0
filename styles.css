@@ -1,0 +1,40 @@
+
+
+
+table {
+    border: 3px solid black;
+    width: 50%;
+    
+    border-collapse: collapse;
+    
+}
+
+
+th, td {
+    border:2px solid black;
+    text-align: center;
+    padding: 5px;
+}
+
+th {
+    background-color: grey;
+}
+
+#top {
+    font-size: 32px;
+}
+#middle {
+    font-size: 24px;
+}
+
+#bottom {
+    font-size:12px;
+}
+
+.name {
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+            
